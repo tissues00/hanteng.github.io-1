@@ -1,17 +1,17 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /teaching/
+  url: /portfolio/
   excerpt: 虽然不好看但是是我的第一个网站
   image: web.gif
 
 - title: 信息可视化作品集
-  url: /i18nl10n/
+  url: /infovis/
   excerpt: 一点小分析
   image: tab.gif
 
 - title: 课程笔记
-  url: /SDG/
+  url: /note/
   excerpt: 两门课的“心得”
   image: 2note.gif
 
