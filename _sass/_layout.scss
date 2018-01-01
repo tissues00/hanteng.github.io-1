@@ -76,7 +76,6 @@
 			&:active:after,
 			&:hover:after {
 				width: 100%;
-				
 			}
 			&:hover {
  +				color: $black;
@@ -122,7 +121,7 @@
 	@include clearfix;
 	font-weight: 700;
 	a {
-		color: lighten($black,60);
+		color: #15351c;
 	}
 }
 
@@ -347,9 +346,9 @@
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
-		color: lighten($black,60);
+		color: #15351c);
 		a {
-			color: lighten($black,60);
+			color: #15351c;
 			text-decoration: none;
 		}
 	}
