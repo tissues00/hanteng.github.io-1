@@ -81,7 +81,7 @@
 			}
 			&:hover {
 				color: #556B2F;
-				background-color: #CD9B1D;
+				background-color: #EEEED1;
 			}
 		}
 	}
@@ -365,9 +365,9 @@
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
-		color: #8B8B00;
+		color: #006400;
 		a {
-			color: #8B8B00;
+			color: #006400;
 			text-decoration: none;
 		}
 	}
