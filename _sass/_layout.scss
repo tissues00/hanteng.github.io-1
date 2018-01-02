@@ -123,7 +123,7 @@
 	@include clearfix;
 	font-weight: 700;
 	a {
-		color: #8B8B00;
+		color: #1c3121;
 	}
 }
 
@@ -189,7 +189,7 @@
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
-					color: #8B8B00;
+					color: #1c3121;
 				}
 			}
 		}
@@ -365,9 +365,9 @@
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
-		color: #006400;
+		color: #1c3121;
 		a {
-			color: #006400;
+			color: #1c3121;
 			text-decoration: none;
 		}
 	}
