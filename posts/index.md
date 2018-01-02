@@ -6,8 +6,8 @@ modified:
 excerpt: "两门课的“心得"
 tags: []
 image: 
-  feature: Portfolio.svg
-  teaser:
+  feature: pen.jpg
+  teaser: pen.jpg
 ---
 
 
