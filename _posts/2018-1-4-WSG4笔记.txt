@@ -1,0 +1,56 @@
+---
+layout: article
+title:  "WSG4笔记"
+date:   2018-1-4 1:40:50 +0800
+categories: posts wsg4
+image:
+  feature: wsg.jpg
+  teaser: wsg.jpg
+---
+
+### WSG4
+
+##### 好啦这是错题
+```
+Navigation-links → 导航链接, 
+Tab\Menu-Navigation → 选项卡\菜单导航, 
+Left-scan-column → 左侧浏览栏,  
+Home-Link → 首页链接, 
+Main → 主要的内容栏, 
+jump-to-top-button → 跳转至顶部按钮, 
+Contact-information → 联系人信息, 
+Right-scan-column → 右侧浏览栏, 
+Breadcrumb-trail → 当前位置路径, 
+Navigation-and-search → 导航和搜索, 
+Header → 页眉, Footer → 页脚, 
+Identity-and-title → 标识及标题, 
+Local-navigation → 局部导航
+```
+```
+复选框 → checkboxes, 
+切换 → Toggles, 
+下拉菜单 → drop-down menus, 
+单选按钮 → radio buttons, 
+捏缩放 → pinch zoom, 
+组合框 → Combo box, 
+切换抽屉 → (Toggle) Drawers, 
+拖放 → drag-and-drop, 
+悬停 → hover, 
+选项卡 → Tabs, 
+文字输入框 → text input/area, 
+切换板 → (Toggle) Panels
+```
+```
+由於用户希望以尽可能最少的步骤获取信息。所以.... → 直接访问 DIRECT ACCESS, 
+由於用户不会容忍长时间的延迟。研究表明，对于大多数计算任务，超过大约是十秒的门槛，用户感到挫折。所以.... → 带宽和交互 BANDWIDTH AND INTERACTION, 
+由於用户使用的装置各类型都有。所以.... → 显示屏 DISPLAYS, 
+由於用户要精确及可靠信息。所以.... → 完整性和稳定性 INTEGRITY AND STABILITY, 由於用户可能出现在任何页面上，所以.... → 无死胡同頁 NO DEAD-END PAGES, 
+由於用户想知道她在哪，有什麽选项及功能。所以.... → 反馈和对话框 FEEDBACK AND DIALOG, 
+由於用户不喜复杂，要即时及正确信息。所以.... → 简洁性和一致性SIMPLICITY AND CONSISTENCY
+```
+```
+以开放格式的 xml 文件类型保存的一种矢量图，直接用于网页上。 → 可伸缩矢量图形 SVG, 
+使用线条丶多边形丶点丶曲线和填充效果的数学描述来创建图像，像 Adobe Illustrator (.ai) 文件。 → 矢量图, 一种简便方法，
+把数十甚至数百个矢量符号和图标，一次以非常紧凑的形式加载至网站中。 → 图标字体, 是由像素 (pixels，也就是图片元素) 为基本单元所组成的细粒网格。 → 位图／点阵图 或称 光栅图, 
+单靠 css 代码在网页上的使用，可加配有阴影丶边缘丶阴影丶悬停和点击状态等等效果。 → CSS 图形
+```
