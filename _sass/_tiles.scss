@@ -44,3 +44,19 @@
     }
   }
 }
+
+a.site-title {
+    width: 200px;
+    height: 60px;
+    background: #556b2f;
+    border: 0px solid;
+    border-radius: 37px;
+    transition: width 2s;
+    -webkit-transition: width 2s;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+a.site-title:hover {
+    width: 250px;
+}
