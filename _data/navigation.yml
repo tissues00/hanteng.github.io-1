@@ -10,12 +10,12 @@
   excerpt: 一点小分析
   image: tab.gif
 
-- title: 课程笔记
-  url: /posts/
-  excerpt: 两门课的“心得”
-  image: 2note.gif
+- title: 网页设计学习笔记
+  url: /posts/rwd/
+  excerpt: 爆肝成果
+  image: webnote.gif
 
-- title: Contact 联络我
-  url: /contact/
-  excerpt: "真的要联络我吗"
-  image: contact.gif
+- title: 信息可视化学习笔记
+  url: /posts/infovis/
+  excerpt: 一点小分析
+  image: tabnote.gif
