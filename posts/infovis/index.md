@@ -3,7 +3,7 @@ layout: archive
 title: ""
 date: 2017-12-30T11:40:45-04:00
 modified:
-excerpt: "两门课的“心得”"
+excerpt: "一点小分析"
 tags: []
 image: 
   feature: pen.jpg
@@ -12,7 +12,7 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.posts %}
+{% for post in site.categories.post_infovis %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 posts列出來-->
