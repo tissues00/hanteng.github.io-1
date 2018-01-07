@@ -10,7 +10,7 @@ image:
   teaser:
 ---
  
-![期末信息可视化作品.png](https://s1.ax1x.com/2018/01/07/pZL2ad.jpg)
+![期末信息可视化作品.png](https://s1.ax1x.com/2018/01/07/pZLLIs.jpg)
  
 <div class="tiles">
 {% for post in site.categories.tableau %}
